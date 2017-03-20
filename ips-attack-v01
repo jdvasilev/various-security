@@ -1,0 +1,15 @@
+#in case of IPS event
+#basic logic
+#  get the computer name from the email
+#  get the user name form the email
+#get into the server
+#generate list of the processes and expoert
+#search for vbs files
+#search for the filename from the email
+#kill the PID's for the files in question
+#archive and copy the files
+#delete the files
+#generate list of the process and export [example file name]
+#search for vbs files
+#seach for the filename from the email
+#submit the files to symantec [in this case]
